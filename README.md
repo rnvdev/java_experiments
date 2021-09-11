@@ -2,6 +2,3 @@
 
 **Java repository: My progress with Java programming language.**
 
----
-**🟢 Hey! If you have a job opportunity, let me know!**<br>
-✉️ rnvdev.contato@gmail.com
